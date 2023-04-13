@@ -1,3 +1,7 @@
-div{
-    margin: 5px 5px 5px 5px;
+.card {
+  background-color: bisque;
+  margin: auto;
+}
+div {
+  margin: 5px;
 }

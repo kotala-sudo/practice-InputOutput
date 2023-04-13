@@ -1,6 +1,8 @@
-p{
-    color: crimson;
-    font-weight: bold;
-    
+.card {
+  background-color: aquamarine;
 }
 
+p {
+  color: crimson;
+  font-weight: bold;
+}
